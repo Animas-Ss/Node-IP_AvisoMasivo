@@ -1,0 +1,1 @@
+// se almacena la ip para hacer la comparacion pero se pudria almacenar de otra forma 
